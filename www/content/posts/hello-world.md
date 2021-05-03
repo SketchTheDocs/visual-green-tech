@@ -19,4 +19,4 @@ This is an initiative kickstarted in April 2021 with 24 prompts to help communit
 
 Here are the prompts:
 
-![VisualGreenTech prompts](prompts.jpeg)
+![VisualGreenTech prompts](/images/prompts.jpeg)
