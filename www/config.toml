@@ -1,4 +1,4 @@
-baseURL = "https://sketchnotes.dev/visual-green-tech/"
+baseURL = "https://sketchthedocs.dev/visual-green-tech/"
 languageCode = "en-us"
 title = "Visual Green Tech"
 theme = "newsroom"
@@ -12,13 +12,3 @@ paginate = 6
 
 # Build target directory defined
 publishdir = "../docs" 
-
-# ids used below are not valid. Replace with valid ones
-[params]
-  locale = "en_US"
-  # ga_analytics = "" # google analytics ID e.g UA-116386578-1
-  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  twitter = "@nitya" 
-  # mainSections = ["blog", "docs"] see https://gohugo.io/functions/where/#mainsections
-  # uncomment the line below will disable darkmode by default.
-  # disableDarkMode = true  # note that the UI control for toggling darkmode will remain in place. This way, the user can decide which mode they would like to use while browsing your website
