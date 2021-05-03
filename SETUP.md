@@ -84,6 +84,12 @@ $ hugo -D
 
 
 
+## Troubleshooting
+
+ - Fixed DNS issue (baseUrl update)
+ - Fixed side-menu absence (added files in data/ folder)
+ - Fixed Archives link error (two steps: have new posts created in content/post folder, add content/_index.md placeholder)
+
 ## Maintenance
 
 Simply add content into the relevant subfolders using something of the form below, where `xxxxx` is a slug that is unique to the site.
