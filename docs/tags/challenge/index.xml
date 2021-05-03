@@ -10,10 +10,10 @@
     <lastBuildDate>Mon, 03 May 2021 11:21:17 -0400</lastBuildDate><atom:link href="https://sketchthedocs.dev/visual-green-tech/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World!</title>
-      <link>https://sketchthedocs.dev/visual-green-tech/posts/hello-world/</link>
+      <link>https://sketchthedocs.dev/visual-green-tech/post/hello-world/</link>
       <pubDate>Mon, 03 May 2021 11:21:17 -0400</pubDate>
       
-      <guid>https://sketchthedocs.dev/visual-green-tech/posts/hello-world/</guid>
+      <guid>https://sketchthedocs.dev/visual-green-tech/post/hello-world/</guid>
       <description>Welcome to the #VisualGreenTech site!
 This is an initiative kickstarted in April 2021 with 24 prompts to help community awareness and action around sustainable living and sustainable engineering practices, leading up to #EarthDay.
 Here are the prompts:</description>
