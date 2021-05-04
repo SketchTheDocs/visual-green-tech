@@ -7,16 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021, Nitya Narasimhan; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 03 May 2021 11:21:17 -0400</lastBuildDate><atom:link href="https://sketchthedocs.dev/visual-green-tech/tags/earthday/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sketchthedocs.dev/visual-green-tech/tags/earthday/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello, World!</title>
-      <link>https://sketchthedocs.dev/visual-green-tech/post/hello-world/</link>
-      <pubDate>Mon, 03 May 2021 11:21:17 -0400</pubDate>
+      <title>#VisualGreenTech: Challenge Retrospective</title>
+      <link>https://sketchthedocs.dev/visual-green-tech/post/challenge-retro/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sketchthedocs.dev/visual-green-tech/post/hello-world/</guid>
-      <description>Welcome to the #VisualGreenTech site!
-This is an initiative kickstarted in April 2021 with 24 prompts to help community awareness and action around sustainable living and sustainable engineering practices, leading up to #EarthDay.
-Here are the prompts:</description>
+      <guid>https://sketchthedocs.dev/visual-green-tech/post/challenge-retro/</guid>
+      <description>Photo Credit: Unsplash
+ About #VisualGreenTech On April 1 (2021), we launched the #VisualGreenTech challenge with an announcement on the HelloWorld show and a blog post on the Microsoft Green Tech Community blog.
+The challenge itself consisted of 24 prompts shared on social media with the intent of raising awareness and action around topics related to sustainable living and green technology in community and workplace contexts. Readers were invited to review a linked resource, think about a question posed in the daily prompt, and respond with a visual that reflected a related insight.</description>
+    </item>
+    
+    <item>
+      <title>Hello, World! It&#39;s #EarthDay!</title>
+      <link>https://sketchthedocs.dev/visual-green-tech/post/helloearth-day/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sketchthedocs.dev/visual-green-tech/post/helloearth-day/</guid>
+      <description>April 22, 2021 was officially designated EarthDay, a day (or days) where folks around the world organize events and conversations to drive actionable impact on climate change.
+Within the Microsoft Developer Relations team, we decided to run a challenge of our own - the #VisualGreenTech challenge, with 24 daily prompts that were designed to raise awareness and action from the community around both sustainable living (community) and sustainable software engineering (technology).</description>
     </item>
     
   </channel>
