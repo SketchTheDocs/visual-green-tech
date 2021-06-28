@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Visual Green Tech</title>
-    <link>https://sketchthedocs.dev/visual-green-tech/categories/</link>
+    <link>https://sketchthedocs.github.io/visual-green-tech/categories/</link>
     <description>Recent content in Categories on Visual Green Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021, Nitya Narasimhan; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 May 2021 17:41:06 -0400</lastBuildDate><atom:link href="https://sketchthedocs.dev/visual-green-tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 May 2021 17:41:06 -0400</lastBuildDate><atom:link href="https://sketchthedocs.github.io/visual-green-tech/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GreenTech</title>
-      <link>https://sketchthedocs.dev/visual-green-tech/categories/greentech/</link>
+      <link>https://sketchthedocs.github.io/visual-green-tech/categories/greentech/</link>
       <pubDate>Tue, 04 May 2021 17:41:06 -0400</pubDate>
       
-      <guid>https://sketchthedocs.dev/visual-green-tech/categories/greentech/</guid>
+      <guid>https://sketchthedocs.github.io/visual-green-tech/categories/greentech/</guid>
       <description></description>
     </item>
     

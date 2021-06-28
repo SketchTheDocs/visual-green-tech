@@ -1,4 +1,4 @@
-baseURL = "https://sketchthedocs.dev/visual-green-tech/"
+baseURL = "https://sketchthedocs.github.io/visual-green-tech/"
 languageCode = "en-us"
 title = "Visual Green Tech"
 theme = "newsroom"
